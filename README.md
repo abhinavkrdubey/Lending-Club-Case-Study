@@ -16,13 +16,13 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 
 ## General Information
 - Provide general information about your project here.
- - The project here will give us an idea how real business problems are solved using the EDA Technique.
+  - The project here will give us an idea how real business problems are solved using the EDA Technique.
 - What is the background of your project?
- - We are working for a consumer finance company and are tring to see who would repay the loan and who would not.
+  - We are working for a consumer finance company and are tring to see who would repay the loan and who would not.
 - What is the business probem that your project is trying to solve?
- - We are trying to see who would default the loan.
+  - We are trying to see who would default the loan.
 - What is the dataset that is being used?
- - Lending Club Loan Dataset
+  - Lending Club Loan Dataset
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
